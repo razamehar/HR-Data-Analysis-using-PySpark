@@ -1,4 +1,4 @@
-# PySpark HR Data Analysis
+# HR Data Analysis using PySpark
 This project demonstrates the use of Apache Spark with PySpark for analyzing HR data, performing data exploration, transformation, and model building. The dataset used in this project is from Kaggle's "Human Resources Data Set," which is used for employee performance and salary analysis.
 
 ## Requirements
