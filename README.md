@@ -36,6 +36,12 @@ pip install findspark -q
 2. Data Selection:
   - Columns for numerical analysis are selected, including MaritalStatusID, GenderID, and others.
 
+3. Drop columns:
+  - EmpStatusID and FromDiversityJobFairID columns are dropped.
+
+4. Rename a columns:
+  - EmpID column has been renamed to EmpNo.
+
 ## Exploratory Data Analysis (EDA)
 1. Summary Statistics:
   - Display summary statistics for selected columns.
